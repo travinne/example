@@ -2,8 +2,9 @@
     color: red;
 }
 h1{
-    color: aquamarine;
+    color: blue;
 }
 h3{color: blueviolet;}
-li{color: springgreen;}
+li{color: black;}
 *{font-size: xx-large;}
+img{border-radius: 50%;height: 100px;width:100;}
